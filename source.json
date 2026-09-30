@@ -1,0 +1,26 @@
+{
+  "name": "Sangeeth AppStore",
+  "identifier": "com.sangeeth.appstore",
+  "apps": [
+    {
+      "name": "ConsoleDesk",
+      "bundleIdentifier": "com.sangeeth.consoledesk",
+      "developerName": "Sangeeth Nandakumar",
+      "subtitle": "Personal build",
+      "localizedDescription": "Custom built app",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/5996/5996260.png",
+      "tintColor": "#0A84FF",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "16",
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.0-16/consoledesk-0.1.0-16.ipa",
+          "size": 8600912,
+          "localizedDescription": "Build 16"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
