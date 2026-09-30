@@ -13,6 +13,14 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "19",
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.0-19/consoledesk-0.1.0-19.ipa",
+          "size": 8673543,
+          "localizedDescription": "Build 19"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "18",
           "date": "2026-09-30",
           "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.0-18/consoledesk-0.1.0-18.ipa",
