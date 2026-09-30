@@ -12,6 +12,14 @@
       "tintColor": "#0A84FF",
       "versions": [
         {
+          "version": "0.1.23",
+          "buildVersion": "23",
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.23-23/consoledesk-0.1.23-23.ipa",
+          "size": 8683618,
+          "localizedDescription": "Build 23"
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "22",
           "date": "2026-09-30",
