@@ -12,6 +12,14 @@
       "tintColor": "#0A84FF",
       "versions": [
         {
+          "version": "0.1.71",
+          "buildVersion": "71",
+          "date": "2026-10-08",
+          "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.71-71/consoledesk-0.1.71-71.ipa",
+          "size": 9969996,
+          "localizedDescription": "Build 71"
+        },
+        {
           "version": "0.1.70",
           "buildVersion": "70",
           "date": "2026-10-08",
@@ -82,14 +90,6 @@
           "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.62-62/consoledesk-0.1.62-62.ipa",
           "size": 9279313,
           "localizedDescription": "Build 62"
-        },
-        {
-          "version": "0.1.61",
-          "buildVersion": "61",
-          "date": "2026-10-06",
-          "downloadURL": "https://github.com/sangeethnandakumar/appstore/releases/download/consoledesk-v0.1.61-61/consoledesk-0.1.61-61.ipa",
-          "size": 9276038,
-          "localizedDescription": "Build 61"
         }
       ]
     }
